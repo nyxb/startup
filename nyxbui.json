@@ -2,7 +2,7 @@
   "$schema": "https://nyxbui.design/schema.json",
   "aliases": {
     "components": "~/components",
-    "utils": "~/utils/ny"
+    "utils": "~/lib/utils"
   },
   "rsc": true,
   "style": "miami",
